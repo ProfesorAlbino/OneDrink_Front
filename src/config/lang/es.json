@@ -1,0 +1,93 @@
+{
+    "title": "APAZA",
+    "loading": "Cargando...",
+    "titleAboutUs": "Sobre nosotros",
+    "services": "Servicios",
+    "events": "Eventos",
+    "welcome": "Bienvenido",
+    "backText": "Volver",
+    "correctText": "Correcto",
+    "homepage": {
+        "titles": {
+            "whatIsTea": "¿Que es el TEA?",
+            "characteristicsTea": "Características del TEA",
+            "treatmentsTitle": "Tratamientos",
+            "informationTeaApaza": "Información sobre nosotros",
+            "recentDiagnosis": "Recién Diagnosticado",
+            "titleAboutUs": "Ven y descubre un poco más sobre nuestra historia y los miembros que forman parte de APAZA.",
+            "countTitle1": "Miembros",
+            "countTitle2": "Fundación",
+            "countTitle3": "Junta directiva"
+        },
+        "body": {
+            "descriptionTea": "El TEA es un trastorno del desarrollo que afecta la forma en que una persona se relaciona con el mundo y con las personas que lo rodean. Las personas con autismo pueden tener dificultades para comunicarse y relacionarse con los demás, y pueden tener intereses y comportamientos repetitivos.",
+            "descriptionCharacteristicsTea": "El Trastorno del Espectro Autista (TEA), presenta síntomas que pueden variar en cada niño. Algunos signos comunes incluyen dificultad para comunicarse o mantener contacto visual, comportamientos repetitivos como mecerse o aletear, preferencia por la rutina y resistencia al cambio, y problemas para entender emociones o interactuar socialmente.",
+            "descriptionHelpDiagnostic": "Esta sección ofrece información y apoyo para personas que han recibido recientemente un diagnóstico de autismo",
+            "infoCharacteristicsTea": "Conoce los características y señales comunes del autismo para una identificación temprana y precisa.",
+            "infoTreatments": "Explora diferentes tratamientos y terapias que pueden ayudar en el desarrollo y bienestar de personas con autismo.",
+            "infoDiagnosis": "Esta sección ofrece información y apoyo para personas que han recibido recientemente un diagnóstico de autismo",
+            "infoEvents": "Explora nuestros eventos y entérate de todas nuestras actividades para no perderte ninguna.",
+            "infoAboutUs": "Conoce más sobre nosotros y nuestra misión de apoyar a personas con TEA y sus familias.",
+            "descriptionAboutUs": "Estamos emocionados de compartir nuestro recorrido y todo lo que nos impulsa a seguir adelante.",
+            "descriptionCount1": "Conoce a los miembros que forman parte de nuestra comunidad.",
+            "descriptionCount2": "Descubre nuestra historia y cómo hemos crecido a lo largo de los años.",
+            "descriptionCount3": "Conoce a los miembros de nuestra junta directiva y su compromiso con nuestra misión."
+        }
+    },
+    "loginpage": {
+        "titles": {
+            "createAccountText": "Crear cuenta",
+            "nameText": "Nombre",
+            "emailText": "Correo electrónico",
+            "passwordText": "Contraseña",
+            "loginText": "Iniciar sesión",
+            "registerText": "Registrar",
+            "logoutText": "Cerrar sesión",
+            "loggedText": "Sesión iniciada",
+            "areAdminText": "Eres un administrador",
+            "createAnotherAdminText": "Crear otro administrador"
+        },
+        "messages": {
+            "cantLoginMsg": "Error, No se pudo iniciar sesión",
+            "registerSuccessMsg": "Se registró correctamente",
+            "cantRegisterMsg": "Error, No se pudo registrar",
+            "loginMessageMsg": "Inicia sesión para que puedas crear otro usuario"
+        }
+    },
+    "navbar": {
+        "titles": {
+            "start": "Inicio",
+            "team": "Junta",
+            "sponsors": "Colaboradores",
+            "events": "Eventos"
+        },
+        "languages": {
+            "language": "Idioma",
+            "spanish": "Español",
+            "english": "Inglés"
+        }
+    },
+    "footer": {
+        "titles": {
+            "social": "Redes sociales",
+            "aboutUs": "Sobre nosotros",
+            "team": "Junta directiva",
+            "developers": "Desarrolladores",
+            "session": "Sesión",
+            "help": "Ayuda",
+            "info": "Información",
+            "contact": "Contacto",
+            "email": "Correo electrónico",
+            "whatsapp": "Whatsapp"
+        },
+        "body": {
+            "phrase": "Juntos construyendo un futuro más inclusivo para las personas con TEA."
+        }
+    },
+    "eventhomepage":{
+        "titles":{
+            "noEvents": "No hay eventos disponibles",
+            "addEvent": "Agregar evento"
+        }
+    }
+}
